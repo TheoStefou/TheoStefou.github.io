@@ -1,0 +1,22 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: Arial;
+}
+
+#toptable {
+	width: 100%;
+	border: 0;
+}
+
+#me_img {
+	height:250px;
+}
+
+.c1 {
+	font-size: 120%;
+}
+
+a {
+	color: #99FFCC;
+}
